@@ -1,0 +1,1 @@
+{"total_reviews": 10000, "genuine_reviews": 8000, "fake_reviews": 2000, "model_accuracy": 1.0, "confusion_matrix": [{"Actual": 1, "Predicted": 1, "Count": 396}, {"Actual": 0, "Predicted": 0, "Count": 1525}]}
